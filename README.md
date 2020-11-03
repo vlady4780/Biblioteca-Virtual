@@ -19,8 +19,6 @@ Plataforma web dedicada a la publicación de libros, proyectos y curriculums par
 
 ---------------------------------
 
-## Integrantes:
-
 ## Jefe de Proyecto
 
 * **David Saavedra**
